@@ -1,0 +1,12 @@
+%{"bbmustache": {:hex, :bbmustache, "1.0.4"},
+  "certifi": {:hex, :certifi, "0.3.0"},
+  "cf": {:git, "https://github.com/project-fifo/cf", "8a113805bdfd7d9f2aba712f5035567ecb38a129", [tag: "0.2.0"]},
+  "cth_readable": {:hex, :cth_readable, "1.1.0"},
+  "erlware_commons": {:git, "https://github.com/erlware/erlware_commons.git", "8a325c02912a20a877d861cc72021505c145daaa", []},
+  "eunit_formatters": {:hex, :eunit_formatters, "0.3.1"},
+  "getopt": {:hex, :getopt, "0.8.2"},
+  "providers": {:hex, :providers, "1.6.0"},
+  "rebar": {:git, "https://github.com/rebar/rebar3.git", "46181c8bf5863a828b87d0cf3f0aa4cf48f3f245", []},
+  "relx": {:hex, :relx, "3.9.0"},
+  "ssl_verify_hostname": {:hex, :ssl_verify_hostname, "1.0.5"},
+  "termcap": {:hex, :termcap, "0.1.0"}}
